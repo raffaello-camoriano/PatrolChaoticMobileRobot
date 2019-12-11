@@ -22,3 +22,48 @@ References
 - Okamoto, H., and H. Fujii. "Nonlinear Dynamics, Iwanami Lectures of Applied Mathematics (in Japanese) Iwanami." (1995).
 
 - Rooks, Brian. "Robotics outside the metals industries." Industrial Robot: An International Journal 32, no. 3 (2005): 205-208.
+
+Example Output
+-------------
+```
+GUI thread initialized.
+GUI thread working.
+Cyclic timer created and initialized.
+Threads created.
+
+
+**** Proximity routine started ****
+
+Hostile Agent 4 Killed!
+There are still 8 HAs
+Hostile Agent 8 Killed!
+There are still 7 HAs
+Hostile Agent 9 Killed!
+There are still 6 HAs
+Hostile Agent 7 Killed!
+There are still 5 HAs
+Hostile Agent 3 Killed!
+There are still 4 HAs
+Hostile Agent 6 Killed!
+There are still 3 HAs
+Hostile Agent 2 Killed!
+There are still 2 HAs
+Hostile Agent 5 Killed!
+Only 1 hostile agent left!
+Hostile Agent 1 Killed!
+All the hostile agents have been catched by the mobile robot.
+Agent 3 returns.
+Agent 1 returns.
+Agent 0 returns.
+Agent 4 returns.
+Agent 6 returns.
+Agent 5 returns.
+Agent 9 returns.
+Agent 8 returns.
+Agent 7 returns.
+Agent 2 returns.
+GUI shutting down.
+Barriers deleted!
+Mutexes deleted!
+Main program ends!
+```
